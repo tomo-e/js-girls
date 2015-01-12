@@ -1,11 +1,14 @@
-#JS Girls
-このイラストはJS Girlsです。
-[JS Girls](http://jsgirls.org/)というイベントのロゴで使われている女の子のイラストです。
+# JS Girls
 
-#Format
-透過PNG
+These are illustrations of character which is used at [JS Girls](http://jsgirls.org/).
 
-#License
-[クリエイティブコモンズ 表示 - 非営利 - 改変禁止 4.0 国際](http://creativecommons.org/licenses/by-nc-nd/4.0/deed.ja)
+## Preview
 
-[Attribution-NonCommercial-NoDerivatives 4.0 International](http://creativecommons.org/licenses/by-nc-nd/4.0/deed)
+[![](assets/preview.png)](https://tomo-e.github.io/js-girls/)
+
+## Format
++ Transparent PNG
+
+## License
+
++ [Attribution-NonCommercial-NoDerivatives 4.0 International](http://creativecommons.org/licenses/by-nc-nd/4.0/deed)
